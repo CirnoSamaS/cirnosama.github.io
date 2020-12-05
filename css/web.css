@@ -1,0 +1,56 @@
+.div1{
+	width: 50vh;
+	height: 60vh;
+	border: 2px solid #7DBF51;
+	border-radius: 20px;
+	margin: 40px auto;
+}
+.div2{
+	width: 50vh;
+	height: 18vh;
+	background-color: #7DBF51;
+	border-radius: 10px;
+	position: relative;
+}
+#xuehao1,#xuehao2{
+	font-size: 45px;
+	color: white;
+	position: relative;
+	left: 50px;
+	top: 60px;
+}
+.div3{
+	width: 50vh;
+	height: auto;
+	position: absolute;
+	top: 20vh;
+}
+#time1{
+	font-size: 35px;
+	text-align: center;
+	margin: 65px auto;
+}
+.img2{
+	width: 300px;
+	height: 300px;
+	display: block;
+	margin: 15px auto;
+}
+.div4{
+	font-size: 35px;
+	text-align: center;
+	margin: 70px auto;
+	color: #7DBF51;
+}
+.img1{
+	width: 200px;
+	height: 200px;
+	background-color: black;
+	position: absolute;
+	top: 50px;
+	right: 50px;
+}
+.img1 img{
+	width: 200px;
+	height: 200px;
+}
