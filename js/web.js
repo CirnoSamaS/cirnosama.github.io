@@ -26,8 +26,8 @@ function(){
 	document.getElementById("time2").innerHTML=Outtime;
 },1000);
 //随机获得学号
-var id=["201835030311","201723130318","201823130818","201998030101","202023130448"]
-var idname=["王华","吴亦凡","张东申","陈冠南","朱晓川"];
+var id=["201735030311","201723130318","201723130818","201798030101","201723130448"]
+var idname=["吴伟华","陈一山","刘凯旋","赵文宇","刘晓军"];
 var img_id=['1','2','3','4','5'];
 var randomid = id[Math.floor(Math.random() * id.length)];
 var randomname = idname[Math.floor(Math.random() * idname.length)];
